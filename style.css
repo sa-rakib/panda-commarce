@@ -45,3 +45,14 @@
     border: none;
     box-shadow: 1px 1px 10px gray;
 }
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+#subscribe{
+    height: 300px;
+    border-radius: 9px;
+}
+footer{
+    text-align: center;
+}
