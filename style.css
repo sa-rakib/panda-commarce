@@ -41,4 +41,7 @@
 .categories h1{
     color: white;
 }
-
+.card{
+    border: none;
+    box-shadow: 1px 1px 10px gray;
+}
