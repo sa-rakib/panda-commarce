@@ -20,3 +20,25 @@
     border-radius: 5px;
 }
 /* section carousel done */
+
+
+.cat1, .cat2, .cat3 {
+    padding: 10px 30px;
+    border-radius: 5px;
+}
+
+
+.cat1{
+    background-color: #FF9C35;
+
+}
+.cat2{
+    background-color: #FF589B;
+}
+.cat3{
+    background-color: #4289FF;
+}
+.categories h1{
+    color: white;
+}
+
